@@ -1,0 +1,249 @@
+.body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/UO2lattice.jpg")
+}
+  .image {
+    width: 300px;
+    border-radius: 9%;
+    margin: 40px;
+
+  }
+  .center{
+    text-align: center;
+  }
+.text{
+ padding: 5px; 
+}
+.div1{
+  background-color: #7f5b60;
+  hight: 40px;
+  width:  150px;
+  border-radius: 15%;
+  padding: 5px; 
+  margin-left: 40px;
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div2{
+  background-color:#996d73;
+  hight: 40px;
+  width:  130px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div3{
+  background-color:#cc919a;
+  hight: 40px;
+  width:  190px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div4{
+  background-color:#e5a3ad;
+  hight: 40px;
+  width:  170px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div5{
+  background-color:#ffb6c1;
+  hight: 40px;
+  width:  170px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div6{
+  background-color:#ffdae0;
+  hight: 40px;
+  width:  190px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div7{
+  background-color:#ffd3d9;
+  hight: 40px;
+  width:  130px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div8{
+  background-color:#ffcbd3;
+  hight: 40px;
+  width:  170px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div9{
+  background-color:#ffc4cd;
+  hight: 40px;
+  width:  170px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div10{
+  background-color:#ffbdc7;
+  hight: 40px;
+  width:  170px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div11{
+  background-color: #ffe1e6;
+  hight: 40px;
+  width:  170px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div12{
+  background-color:#ffe9ec;
+  hight: 40px;
+  width:  150px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div13{
+  background-color:#fff0f2;
+  hight: 40px;
+  width:  190px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div14{
+  background-color:#fff7f8;
+  hight: 40px;
+  width:  110px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.div15{
+  background-color:#ffffff;
+  hight: 40px;
+  width:  160px;
+  border-radius: 15%;
+  padding: 5px; 
+  opacity: 0.9;
+  border-style: double;
+  border-color: #191213;
+}
+.img2{
+  width: 200px;
+  
+}
+.arrow {
+  width: 0;
+  height: 0;
+  border: 70px solid transparent; 
+  display: block;
+  opacity: 0.8;
+  }
+.arrow-left {
+  position: relative;  
+  border-right: 0;
+  left: 40px;
+  }
+
+.color1 {
+  border-left-color:  #7f5b60;  
+ 
+}
+.color2 {
+  border-left-color:  #996d73;  
+}
+.color3 {
+  border-left-color:  #cc919a;  
+}
+.color4 {
+  border-left-color:  #e5a3ad;  
+}
+.color5 {
+  border-left-color:  #ffb6c1;  
+}
+.arrow-right {
+  position: relative;  
+  border-left: 0;
+  top: 5px;
+  left: 30px;
+  }
+
+.color6 {
+  border-right-color:  #ffd3d9;  
+ 
+}
+.color7 {
+  border-right-color:  #ffcbd3;  
+}
+.color8 {
+  border-right-color: #ffc4cd;  
+}
+.color9 {
+  border-right-color: #ffbdc7;  
+}
+.color10 {
+  border-right-color: #ffb6c1;
+}
+.color11 {
+  border-left-color: #ffe1e6;
+}
+.color12 {
+  border-left-color:#ffe9ec;
+}
+.color13 {
+  border-left-color:#fff0f2;
+}
+.color14 {
+  border-left-color:#fff7f8;
+}
+.color15 {
+  border-left-color:#ffffff;
+}
+a:link{color:blue;}
+a:visited{color:Orchid;}
+a:hover{color:Aquamarine;}
+a:active{color:Tomato;}
+.frame{
+  background-color:LightGray;
+  padding: 4px;
+  margin-left: 300px;
+  margin-top: 10px;
+  width: 1200px;
+  opacity: 0.9;
+}
